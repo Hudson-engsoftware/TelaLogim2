@@ -1,10 +1,13 @@
-# Tela de Login
-## Tecnologias  : HTML | CSS 
+## 🧩 TELA DE LOGIN:
+
+    Treinando as habilidades em HTML e CSS , para criar uma tela de Login
+
+### 🧰 Tecnologias  : HTML | CSS 
 
 <div>
 
-<img align="center" alt="Hudson-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Hudson-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Hudson-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Hudson-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 <div align="left">
   
